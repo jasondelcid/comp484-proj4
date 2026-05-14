@@ -186,3 +186,17 @@ body {
     color: white;
     background-color: #E95D0F;
 }
+.stats,
+.scores {
+    margin-top: 1em;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.scores h2 {
+    font-size: 1.2em;
+}
