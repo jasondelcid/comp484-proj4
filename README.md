@@ -27,3 +27,5 @@ A typing speed test web application built with HTML, CSS, and JavaScript for COM
 2. Open index.html in your browser
 
 ## GitHub Pages Link
+
+https://jasondelcid.github.io/comp484-proj4/
