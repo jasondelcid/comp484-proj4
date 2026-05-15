@@ -21,11 +21,6 @@ A typing speed test web application built with HTML, CSS, and JavaScript for COM
 - CSS3
 - JavaScript
 
-## How to Run
-
-1. Download or clone the repository
-2. Open index.html in your browser
-
 ## GitHub Pages Link
 
 https://jasondelcid.github.io/comp484-proj4/
